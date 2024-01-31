@@ -19,5 +19,5 @@ npm run setup - setup AWS env (S3 bucket, cloudfront)
 npm run deploy - build + upload files + invalidate cloudfront cache
 ```
 
-S3 Website: http://my-shop-kf.s3-website-us-east-1.amazonaws.com
-CloudFront URL: https://d3o4sef1lkpe4n.cloudfront.net
+S3 Website: http://my-shop-kfa.s3-website-us-east-1.amazonaws.com
+CloudFront URL: https://d3aaw2lm9h32wo.cloudfront.net

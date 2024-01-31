@@ -14,7 +14,7 @@ plugins:
 custom:
   ## Serverless-finch configuration
   client:
-    bucketName: my-shop-kf
+    bucketName: my-shop-kfa
     distributionFolder: dist/app
     indexDocument: index.html
     manageResources: false
