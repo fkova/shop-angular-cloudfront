@@ -4,6 +4,7 @@
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
+    "start:local": "ng serve --configuration local",
     "build": "ng build",
     "setup": "sls deploy",
     "deploy": "npm run build && npm run client:deploy && npm run invalidateCache",
