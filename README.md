@@ -20,4 +20,4 @@ npm run deploy - build + upload files + invalidate cloudfront cache
 ```
 
 S3 Website: http://my-shop-kfa.s3-website-us-east-1.amazonaws.com
-CloudFront URL: https://d3aaw2lm9h32wo.cloudfront.net
+CloudFront URL: https://d2lviq6hdr9bao.cloudfront.net
